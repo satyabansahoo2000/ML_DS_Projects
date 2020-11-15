@@ -1,6 +1,6 @@
 # COURIER SERVICE SYSTEM
 
-1. **THE COURSEWORK OVERVIEW**
+## THE PROJECT OVERVIEW
 
 The assignment is to design and implement a web-based Courier Service System. There are 2 types of end users interacting to the system:
 
@@ -10,11 +10,11 @@ ii. Delivery Staff
 
 All the end users are required to login for authentication and authorisation purposes.
 
-1. **OBJECTIVES**  **OF THIS COURSEWORK**
+## OBJECTIVES
 
 Develop the practical ability to describe, justify, and implement an object-oriented system.
 
-1. **LEARNING OUTCOMES**
+## LEARNING OUTCOMES
 
 At the end of this coursework, you should be able to:
 
@@ -22,7 +22,7 @@ At the end of this coursework, you should be able to:
 - Demonstrate object-oriented concepts and their functionalities in the existing system (A3, PLO4)
 
 
-1. **PROJECT DESCRIPTION**
+# PROJECT DESCRIPTION
 
 a) The following functionalities should be provided for the managing staff&#39;s interface:
 
@@ -42,7 +42,7 @@ b) The following functionalities should be provided for the delivery staff&#39;s
 
 You are also required to identify the relationship among the entities and also develop the necessary methods needed to fulfil the requirements of the expected systems.
 
-**GENERAL REQUIREMENTS**
+# GENERAL REQUIREMENTS
 
 - The program submitted should compile and be executed without errors
 - Validation should be done for each entry from the users in order to avoid logical errors.
@@ -50,6 +50,6 @@ You are also required to identify the relationship among the entities and also d
 - Students should use **text files** for storing and retrieving data required for the system.
 - **Not allowed** to use any database tools like access / oracle etc.
 
-**DEVELOPMENT TOOLS**
+# DEVELOPMENT TOOLS
 
 The program written in Java language and you can use any Java development IDE as a tool but the back-end data store must be **.txt** files.
