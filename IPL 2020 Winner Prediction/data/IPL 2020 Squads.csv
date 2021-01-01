@@ -1,0 +1,128 @@
+player_ipl_id,Player_name,Player_country,Player_ipl_team
+CSK1,MS Dhoni (C),India,CSK
+CSK2,Suresh Raina,India,CSK
+CSK3,Kedar Jadhav,India,CSK
+CSK4,Ravindra Jadeja,India,CSK
+CSK5,Dwayne Bravo,West Indies,CSK
+CSK6,Karn Sharma,India,CSK
+CSK7,Shane Watson,Australia,CSK
+CSK8,Shardul Thakur,India,CSK
+CSK9,Ambati Rayudu,India,CSK
+CSK10,Harbhajan Singh,India,CSK
+CSK11,Murali Vijay,India,CSK
+CSK12,Faf du Plessis,South Africa,CSK
+CSK13,Imran Tahir,South Africa,CSK
+CSK14,Deepak Chahar,India,CSK
+CSK15,Lungisani Ngidi,South Africa,CSK
+CSK16,Mitchell Santner,New Zealand,CSK
+CSK17,KM Asif,India,CSK
+CSK18,Jagadeesan Narayan,India,CSK
+CSK19,Monu Singh,India,CSK
+CSK20,Ruturaj Gaikwad,India,CSK
+RCB1,Virat Kohli (C),India,RCB
+RCB2,AB de Villiers,South Africa,RCB
+RCB3,Yuzvendra Chahal,India,RCB
+RCB4,Shivam Dube,India,RCB
+RCB5,Umesh Yadav,India,RCB
+RCB6,Washington Sundar,India,RCB
+RCB7,Navdeep Saini,India,RCB
+RCB8,Mohammed Siraj,India,RCB
+RCB9,Moeen Ali,England,RCB
+RCB10,Parthiv Patel,India,RCB
+RCB11,Pawan Negi,India,RCB
+RCB12,Gurkeerat Singh,India,RCB
+RCB13,Devdutt Padikkal,India,RCB
+RCB14,Ankit Rajpoot,India,RCB
+DC1,Ajinkya Rahane,India,DC
+DC2,Ravichandran Ashwin (C),India,DC
+DC3,Rishabh Pant,India,DC
+DC4,Shreyas Iyer,India,DC
+DC5,Shikhar Dhawan,India,DC
+DC6,Axar Patel,India,DC
+DC7,Kagiso Rabada,South Africa,DC
+DC8,Amit Mishra,India,DC
+DC9,Prithvi Shaw,India,DC
+DC10,Ishant Sharma,India,DC
+DC11,Avesh Khan,India,DC
+DC12,Keemo Paul,West Indies,DC
+DC13,Harshal Patel,India,DC
+DC14,Sandeep Lamichhane,Nepal,DC
+DC15,Mayank Markande,India,DC
+MI1,Rohit Sharma (C),India,MI
+MI2,Hardik Pandya,India,MI
+MI3,Krunal Pandya,India,MI
+MI4,Jasprit Bumrah,India,MI
+MI5,Ishan Kishan,India,MI
+MI6,Kieron Pollard,West Indies,MI
+MI7,Suryakumar Yadav,India,MI
+MI8,Quinton de Kock,South Africa,MI
+MI9,Lasith Malinga,Sri Lanka,MI
+MI10,Rahul Chahar,India,MI
+MI11,Mitchell McClenaghan,New Zealand,MI
+MI12,Anmolpreet Singh,India,MI
+MI13,Jayant Yadav,India,MI
+MI14,Aditya Tare,India,MI
+MI15,Anukul Roy,India,MI
+MI16,Sherfane Rutherford,West Indies,MI
+MI17,Trent Boult,Australia,MI
+MI18,Dhawal Kulkarni,India,MI
+KKR1,Sunil Narine,West Indies,KKR
+KKR2,Andre Russell,West Indies,KKR
+KKR3,Dinesh Karthik (C),India,KKR
+KKR4,Kuldeep Yadav,India,KKR
+KKR5,Nitish Rana,India,KKR
+KKR6,Kamlesh Nagarkoti,India,KKR
+KKR7,Shivam Mavi,India,KKR
+KKR8,Shubman Gill,India,KKR
+KKR9,Lockie Ferguson,New Zealand,KKR
+KKR10,Rinku Singh,India,KKR
+KKR11,Harry Gurney,England,KKR
+KKR12,Prasidh Krishna,India,KKR
+KKR13,Sandeep Warrier[REP],India,KKR
+KKR14,Siddhesh Lad,India,KKR
+RR1,Ben Stokes,England,RR
+RR2,Steve Smith,Australia,RR
+RR3,Sanju Samson,India,RR
+RR4,Jofra Archer,England,RR
+RR5,Jos Buttler,England,RR
+RR6,Varun Aaron,India,RR
+RR7,Shashank Singh,India,RR
+RR8,Mahipal Lomror,India,RR
+RR9,Manan Vohra,India,RR
+RR10,Riyan Parag,India,RR
+RR11,Shreyas Gopal,India,RR
+RR12,Mayank Markande,India,RR
+RR13,Rahul Tewatia,India,RR
+KXIP1,KL Rahul(c),India,KXIP
+KXIP2,Karun Nair,India,KXIP
+KXIP3,Mohammad Shami,India,KXIP
+KXIP4,Nicholas Pooran,West Indies,KXIP
+KXIP5,Mujeeb Zadran,Afghanistan,KXIP
+KXIP6,Chris Gayle,West Indies,KXIP
+KXIP7,Mandeep Singh,India,KXIP
+KXIP8,Mayank Agarwal,India,KXIP
+KXIP9,Hardus Viljoen,South Africa,KXIP
+KXIP10,Darshan Nalkande,India,KXIP
+KXIP11,Sarfaraz Khan,India,KXIP
+KXIP12,Arshdeep Singh,India,KXIP
+KXIP13,Harpreet Brar,India,KXIP
+KXIP14,Murugan Ashwin,India,KXIP
+KXIP15,Jagadeesha Suchith,India,KXIP
+KXIP16,Krishnappa Gowtham,India,KXIP
+SRH1,Manish Pandey,India,SRH
+SRH2,Rashid Khan,Afghanistan,SRH
+SRH3,Bhuvneshwar Kumar,India,SRH
+SRH4,Siddarth Kaul,India,SRH
+SRH5,Shahbaz Nadeem,India,SRH
+SRH6,Vijay Shankar,India,SRH
+SRH7,Kane Williamson (C),New Zealand,SRH
+SRH8,Khaleel Ahmed,India,SRH
+SRH9,Sandeep Sharma,India,SRH
+SRH10,Jonny Bairstow,England,SRH
+SRH11,Wriddhiman Saha,India,SRH
+SRH12,Mohammad Nabi,Afghanistan,SRH
+SRH13,Shreevats Goswami,India,SRH
+SRH14,Basil Thampi,India,SRH
+SRH15,Abhishek Sharma,India,SRH
+SRH16,Billy Stanlake,Australia,SRH
+SRH17,Thangarasu Natarajan,India,SRH
