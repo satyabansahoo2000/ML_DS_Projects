@@ -1,4 +1,4 @@
-# Titanic Dataset visualizer using Streamlit
+# Titanic Dataset visualizer using Streamlit and Heroku
 
 ## Dataset
 https://www.kaggle.com/c/titanic/
