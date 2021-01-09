@@ -1,0 +1,5 @@
+pandas==1.2.0
+matplotlib==3.3.3
+seaborn==0.11.1
+scikit_learn==0.24.0
+streamlit==0.74.1
